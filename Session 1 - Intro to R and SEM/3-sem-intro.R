@@ -16,7 +16,8 @@
 
 # If you have never installed SEMinR on your computer, install it as follows:
 
-install.packages("seminr", dependencies = TRUE)
+# uncomment if necessary
+#install.packages("seminr", dependencies = TRUE)
 
 # You do not have to run that function call again unless you want to update
 # SEMinR to a newer version.
